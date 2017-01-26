@@ -8,23 +8,23 @@ For your coding challenge, you will create an achievements system for a fictiona
 Our fictional game is played online between two teams. Each team can have 3-5 players (but must be evenly matched – i.e., if one team has 4 players, the other must have 4 players). Statistics are compiled for each player during/after each game:
 
 
-Number of attempted attacks
+- Number of attempted attacks
 
-Number of hits
+- Number of hits
 
-Total Amount of damage done
+- Total Amount of damage done
 
-Number of kills
+- Number of kills
 
-Number of “first hit” kills
+- Number of “first hit” kills
 
-Number of assists
+- Number of assists
 
-Total number of spells cast
+- Total number of spells cast
 
-Total spell damage done
+- Total spell damage done
 
-Total time played
+- Total time played
 
 # Statistics
 In addition, historical player statistics are maintained as well. For instance, each player is credited with a win/loss based upon the performance of his/her team during the game. Other historical player-level stats can be tracked as well – such as total number of games played, total duration of games played, total number of kills, etc.
