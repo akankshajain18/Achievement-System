@@ -1,0 +1,6 @@
+{    
+         "achievement":[
+            "BigWinnerAward", "BruiserAward", "SharpShooterAward","VeteranAward"],
+     
+     		"winpoint" :[200, 500, 0, 1000]
+}

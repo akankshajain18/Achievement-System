@@ -1,0 +1,204 @@
+{      "game_id":"id",
+         "num_player":4,
+         "start_time":1451994384599,
+         "end_time":1451994384599,
+         "winner_team_player":[
+            {
+            	
+               "name":"custom_name_1",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+              
+               "name":"custom_name_2",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+              "name":"custom_name_3",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+              "name":"custom_name_4",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+             "name":"custom_name_5",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            }
+         ],
+         "looser_team_player":[
+            {
+              "name":"custom_name_6",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+             "name":"custom_name_7",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+              "name":"custom_name_8",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+             "name":"custom_name_9",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            },
+            {
+             "name":"custom_name_10",
+               "gameSpecificStats": [{
+               "attempted_attack":100,
+               "hits":100,
+               "damage_done":100,
+               "current_kills":100,
+               "first_hit_kills":100,
+               "assists":100,
+               "spells_cast":100,
+               "spell_damage_done":100,
+               "total_played_time":100 }],
+               "historicalStats" :[{
+               "win_count":900,
+               "total_game_played":1000,
+               "total_played_duration":100,
+               "total_kills":100
+               }]
+            }
+            
+             
+         ]
+     
+}
